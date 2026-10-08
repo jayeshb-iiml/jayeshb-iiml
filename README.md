@@ -61,6 +61,11 @@ conclusions are mine.
 ### Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Your AI Agent Production Ready in an Industrial Setup](https://briefs.aiadvances.org/how-to-make-your-ai-agent-production-ready-in-an-industrial-setup-7e9a65461dcd?source=rss-ea63bea0d51f------2)
+- [Everyone’s Reading the Wrong Line in Anthropic’s Economic Report](https://briefs.aiadvances.org/everyones-reading-the-wrong-line-in-anthropic-s-economic-report-9573488a577a?source=rss-ea63bea0d51f------2)
+- [Who Owns the Thinking We Pour Into AI?](https://medium.com/@jayesh.bachhav/who-owns-the-thinking-we-pour-into-ai-b12b32497dbb?source=rss-ea63bea0d51f------2)
+- [The PM Role Is Getting Harder, Not Smaller](https://medium.com/design-bootcamp/the-pm-role-is-getting-harder-not-smaller-ee8affb4cfda?source=rss-ea63bea0d51f------2)
+- [Product Management Installed an Operating System in My Brain. I Never Asked for It.](https://medium.com/@jayesh.bachhav/product-management-installed-an-operating-system-in-my-brain-i-never-asked-for-it-7e531a0dd8d2?source=rss-ea63bea0d51f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Outside work
