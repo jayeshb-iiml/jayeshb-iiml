@@ -35,10 +35,11 @@ act on.
 Small, honest projects, not production systems. A few I'm working on
 or planning:
 
-- **RAG evaluation harness:** a retrieval pipeline over public
-  documents with a test set and LLM-as-judge scoring, plus notes on
-  what the scores do and don't tell you. It's the companion to an
-  essay on why AI metrics are not the same as evidence.
+- **[RAG evaluation harness](https://github.com/jayeshb-iiml/RAG-LangChain):**
+  a retrieval pipeline over public documents with a test set and
+  LLM-as-judge scoring, plus notes on what the scores do and don't
+  tell you. It's the companion to an essay on why AI metrics are not
+  the same as evidence. [Try it](https://jayesh-rag-demo.streamlit.app/).
 - **Human-in-the-loop agent:** a small LangGraph agent with approval
   checkpoints and an adjustable autonomy level, to show where a human
   should stay in the loop and why.
