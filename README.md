@@ -46,9 +46,12 @@ or planning:
   itself. The trust rule is slow to earn, fast to lose; a short test
   suite makes the policy independent of whatever the model says.
   [Try it](https://jayesh-agent-autonomy.streamlit.app/).
-- **Farm forecasting:** classical ML on real data from my orchard,
-  such as tree health and irrigation needs. It's a reminder that most
-  useful ML is still tabular and unglamorous.
+- **[Orchard irrigation outlook](https://github.com/jayeshb-iiml/orchard-irrigation-ml):**
+  a classical ML prototype for a real 1,600-tree family orchard, built on
+  real historical weather since there's no sensor data to train on. The
+  evidence and the live projection are kept honestly separate: one is
+  validated on held-out data, the other is a transparent simulation
+  driven by a live forecast. [Try it](https://jayesh-orchard-irrigation.streamlit.app/).
 
 Some of the code is written with AI help; the design choices and
 conclusions are mine.
