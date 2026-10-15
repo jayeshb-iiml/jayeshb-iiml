@@ -45,6 +45,7 @@ or planning:
   the right to act on its own, one category at a time, as it proves
   itself. The trust rule is slow to earn, fast to lose; a short test
   suite makes the policy independent of whatever the model says.
+  [Try it](https://jayesh-agent-autonomy.streamlit.app/).
 - **Farm forecasting:** classical ML on real data from my orchard,
   such as tree health and irrigation needs. It's a reminder that most
   useful ML is still tabular and unglamorous.
