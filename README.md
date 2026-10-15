@@ -40,9 +40,11 @@ or planning:
   LLM-as-judge scoring, plus notes on what the scores do and don't
   tell you. It's the companion to an essay on why AI metrics are not
   the same as evidence. [Try it](https://jayesh-rag-demo.streamlit.app/).
-- **Human-in-the-loop agent:** a small LangGraph agent with approval
-  checkpoints and an adjustable autonomy level, to show where a human
-  should stay in the loop and why.
+- **[Agent autonomy journey](https://github.com/jayeshb-iiml/agent-autonomy-journey):**
+  a support-ticket agent that starts under full human review and earns
+  the right to act on its own, one category at a time, as it proves
+  itself. The trust rule is slow to earn, fast to lose; a short test
+  suite makes the policy independent of whatever the model says.
 - **Farm forecasting:** classical ML on real data from my orchard,
   such as tree health and irrigation needs. It's a reminder that most
   useful ML is still tabular and unglamorous.
